@@ -75,8 +75,8 @@ const Restaurant = () => {
         }
       },
       prefill: {
-        name: "Ajaykr",
-        email: "ajay.kumar@example.com",
+        name: "siddhant",
+        email: "siddhant@example.com",
         contact: "9835952243",
       },
     };
